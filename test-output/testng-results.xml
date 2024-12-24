@@ -2,18 +2,26 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-24T12:02:37 IST" name="Suite" finished-at="2024-11-24T12:02:47 IST" duration-ms="9533">
+  <suite started-at="2024-12-24T20:27:17 IST" name="Suite" finished-at="2024-12-24T20:27:53 IST" duration-ms="35919">
     <groups>
+      <group name="Regression">
+        <method signature="TC_03_AddToCart.verify_AddToCart()[pri:0, instance:testcases.TC_03_AddToCart@2dc54ad4]" name="verify_AddToCart" class="testcases.TC_03_AddToCart"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-11-24T12:02:37 IST" name="Test" finished-at="2024-11-24T12:02:47 IST" duration-ms="9533">
-      <class name="scripts.elorusLoginScript">
-        <test-method is-config="true" signature="setPath()[pri:0, instance:scripts.elorusLoginScript@4c1909a3]" started-at="2024-11-24T12:02:38 IST" name="setPath" finished-at="2024-11-24T12:02:38 IST" duration-ms="7" status="PASS">
+    <test started-at="2024-12-24T20:27:17 IST" name="Test" finished-at="2024-12-24T20:27:53 IST" duration-ms="35919">
+      <class name="testcases.TC_03_AddToCart">
+        <test-method is-config="true" signature="setPath()[pri:0, instance:testcases.TC_03_AddToCart@2dc54ad4]" started-at="2024-12-24T20:27:18 IST" name="setPath" finished-at="2024-12-24T20:27:18 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setPath -->
-        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:scripts.elorusLoginScript@4c1909a3]" started-at="2024-11-24T12:02:38 IST" name="launchBrowser" finished-at="2024-11-24T12:02:42 IST" duration-ms="4080" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_03_AddToCart@2dc54ad4]" started-at="2024-12-24T20:27:18 IST" name="setup" finished-at="2024-12-24T20:27:36 IST" duration-ms="18309" status="PASS">
           <params>
             <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
               <value>
                 <![CDATA[chrome]]>
               </value>
@@ -21,20 +29,16 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method signature="elorusLogin_Script()[pri:0, instance:scripts.elorusLoginScript@4c1909a3]" started-at="2024-11-24T12:02:42 IST" name="elorusLogin_Script" finished-at="2024-11-24T12:02:47 IST" duration-ms="5156" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="verify_AddToCart()[pri:0, instance:testcases.TC_03_AddToCart@2dc54ad4]" started-at="2024-12-24T20:27:36 IST" name="verify_AddToCart" finished-at="2024-12-24T20:27:52 IST" duration-ms="16261" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- elorusLogin_Script -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:scripts.elorusLoginScript@4c1909a3]" started-at="2024-11-24T12:02:47 IST" name="closeBrowser" finished-at="2024-11-24T12:02:47 IST" duration-ms="242" status="PASS">
+        </test-method> <!-- verify_AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_03_AddToCart@2dc54ad4]" started-at="2024-12-24T20:27:52 IST" name="tearDown" finished-at="2024-12-24T20:27:53 IST" duration-ms="857" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="KillDriver()[pri:0, instance:scripts.elorusLoginScript@4c1909a3]" started-at="2024-11-24T12:02:47 IST" name="KillDriver" finished-at="2024-11-24T12:02:47 IST" duration-ms="28" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- KillDriver -->
-      </class> <!-- scripts.elorusLoginScript -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_03_AddToCart -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -1,0 +1,36 @@
+19:33:51:763 [main] INFO  testcases.TC_01_Account_Registration - *******Entering Customer Details*********
+19:33:53:381 [main] INFO  testcases.TC_01_Account_Registration - ********Validating expected message*********
+19:33:53:423 [main] INFO  testcases.TC_01_Account_Registration - ****************Completed TC_01_Account_Registration test******************
+19:38:23:425 [main] INFO  testcases.TC_01_Account_Registration - ****************Starting TC_01_Account_Registration test******************
+19:38:23:462 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Myaccount*********
+19:38:23:583 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Register*********
+19:38:27:053 [main] INFO  testcases.TC_01_Account_Registration - *******Entering Customer Details*********
+19:38:29:385 [main] INFO  testcases.TC_01_Account_Registration - ********Validating expected message*********
+19:38:29:433 [main] INFO  testcases.TC_01_Account_Registration - ****************Completed TC_01_Account_Registration test******************
+19:43:00:648 [main] INFO  testcases.TC_01_Account_Registration - ****************Starting TC_01_Account_Registration test******************
+19:43:00:694 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Myaccount*********
+19:43:00:826 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Register*********
+19:43:05:531 [main] INFO  testcases.TC_01_Account_Registration - *******Entering Customer Details*********
+19:43:07:773 [main] INFO  testcases.TC_01_Account_Registration - ********Validating expected message*********
+19:43:07:821 [main] INFO  testcases.TC_01_Account_Registration - ****************Completed TC_01_Account_Registration test******************
+19:46:44:784 [main] INFO  testcases.TC_01_Account_Registration - ****************Starting TC_01_Account_Registration test******************
+19:46:44:814 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Myaccount*********
+19:46:44:936 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Register*********
+19:46:47:403 [main] INFO  testcases.TC_01_Account_Registration - *******Entering Customer Details*********
+19:46:49:189 [main] INFO  testcases.TC_01_Account_Registration - ********Validating expected message*********
+19:46:49:252 [main] INFO  testcases.TC_01_Account_Registration - ****************Completed TC_01_Account_Registration test******************
+19:46:57:686 [main] INFO  testcases.TC_02_Login - *********Starting TC_02_Login test***********
+19:46:58:141 [main] INFO  testcases.TC_02_Login - *******Entering customer login details*******
+19:51:04:796 [main] INFO  testcases.TC_01_Account_Registration - ****************Starting TC_01_Account_Registration test******************
+19:51:04:829 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Myaccount*********
+19:51:04:993 [main] INFO  testcases.TC_01_Account_Registration - *******Clicking on Register*********
+19:51:07:430 [main] INFO  testcases.TC_01_Account_Registration - *******Entering Customer Details*********
+19:51:09:752 [main] INFO  testcases.TC_01_Account_Registration - ********Validating expected message*********
+19:51:09:807 [main] INFO  testcases.TC_01_Account_Registration - ****************Completed TC_01_Account_Registration test******************
+19:51:24:852 [main] INFO  testcases.TC_02_Login - *********Starting TC_02_Login test***********
+19:51:25:351 [main] INFO  testcases.TC_02_Login - *******Entering customer login details*******
+20:13:39:634 [main] INFO  testcases.TC_03_AddToCart - *********Starting TC_03_AddToCart test***********
+20:23:48:788 [main] INFO  testcases.TC_03_AddToCart - *********Starting TC_03_AddToCart test***********
+20:24:50:032 [main] INFO  testcases.TC_03_AddToCart - *********Starting TC_03_AddToCart test***********
+20:27:36:518 [main] INFO  testcases.TC_03_AddToCart - *********Starting TC_03_AddToCart test***********
+20:27:52:752 [main] INFO  testcases.TC_03_AddToCart - *********Completed TC_03_AddToCart test***********
